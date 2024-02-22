@@ -38,7 +38,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
     @Test
     public void whenNumberIs_4Then_IV(){
-        assertEquals(Util.convertArabicToRoman(3), "III");
+        assertEquals(Util.convertArabicToRoman(4), "IV");
     }
 
     @Test
