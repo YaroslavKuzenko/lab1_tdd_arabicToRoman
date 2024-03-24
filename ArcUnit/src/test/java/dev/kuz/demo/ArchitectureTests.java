@@ -208,6 +208,7 @@ class ArchitectureTests {
                 .check(applicationClasses);
     }
 
+
     @Test
     void shouldRepositoryFieldInAServiceBePrivateAndFinal(){
         fields()
